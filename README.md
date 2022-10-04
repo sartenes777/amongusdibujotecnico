@@ -1,5 +1,4 @@
-"response_code":0,"results":
-[{"category":"history","type":"multiple","difficulty":"easy","question":"Cuándo nació Pitágoras?","correct_answer":"572 a.c","incorrect_answers":["612 a.c","720 a.c","300 d.c"]},
+{"response_code":0,"results":[{"category":"history","type":"multiple","difficulty":"easy","question":"Cuándo nació Pitágoras?","correct_answer":"572 a.c","incorrect_answers":["612 a.c","720 a.c","300 d.c"]},
 {"category":"history","type":"multiple","difficulty":"easy","question":"Dónde nació Pitácoras?","correct_answer":"Isla de Samos","incorrect_answers":["Isla de Creta","Atenas","Isla de Naxos"]},
 {"category":"history","type":"multiple","difficulty":"easy","question":"Por qué se conoce a Pitágoras?","correct_answer":"Por ser el primer matemático puro","incorrect_answers":["Por su gran barba","Por dar clases de aritmetica ","por que descubrió que los segmentos que determina en una de las rectas son proporcionales a los segmentos correspondientes de la otra"]},
 {"category":"history","type":"boolean","difficulty":"easy","question":"a^2 · b^2 = c^2 ","correct_answer":"False","incorrect_answers":["True"]},
